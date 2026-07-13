@@ -206,6 +206,7 @@ public class DresdenScenario extends MATSimApplication {
 					NetworkUtils.removeDisallowedNextLinks(link);
 				}
 			}
+
 		}
 
 		if (emissions == FunctionalityHandling.ENABLED) {
